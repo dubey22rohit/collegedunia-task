@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/collegedunia-task/static/css/main.01a26df3.chunk.css",
+    "main.js": "/collegedunia-task/static/js/main.63fad063.chunk.js",
+    "main.js.map": "/collegedunia-task/static/js/main.63fad063.chunk.js.map",
+    "runtime-main.js": "/collegedunia-task/static/js/runtime-main.48e400d1.js",
+    "runtime-main.js.map": "/collegedunia-task/static/js/runtime-main.48e400d1.js.map",
+    "static/js/2.1c5cd50b.chunk.js": "/collegedunia-task/static/js/2.1c5cd50b.chunk.js",
+    "static/js/2.1c5cd50b.chunk.js.map": "/collegedunia-task/static/js/2.1c5cd50b.chunk.js.map",
+    "static/js/3.717509d3.chunk.js": "/collegedunia-task/static/js/3.717509d3.chunk.js",
+    "static/js/3.717509d3.chunk.js.map": "/collegedunia-task/static/js/3.717509d3.chunk.js.map",
+    "index.html": "/collegedunia-task/index.html",
+    "static/css/main.01a26df3.chunk.css.map": "/collegedunia-task/static/css/main.01a26df3.chunk.css.map",
+    "static/js/2.1c5cd50b.chunk.js.LICENSE.txt": "/collegedunia-task/static/js/2.1c5cd50b.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/collegedunia-task/static/media/MYRIADPRO-REGULAR.6c518fcd.OTF",
+    "static/media/style.css": "/collegedunia-task/static/media/college_02.cfdc9984.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48e400d1.js",
+    "static/js/2.1c5cd50b.chunk.js",
+    "static/css/main.01a26df3.chunk.css",
+    "static/js/main.63fad063.chunk.js"
+  ]
+}
