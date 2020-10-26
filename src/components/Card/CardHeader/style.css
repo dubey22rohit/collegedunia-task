@@ -28,6 +28,7 @@
 
 .header_rating {
   display: flex;
+  margin: 13px;
   justify-content: center;
   align-items: center;
   flex-direction: column;
@@ -36,7 +37,6 @@
   border-radius: 3.8px;
   background-color: #f5a626;
   align-self: flex-end;
-
   font-size: 13.5px;
   line-height: 1.33;
 }
@@ -62,6 +62,7 @@
   border-radius: 16.5px;
   background-color: #ffffff;
   margin-right: 10px;
+  padding: 0px 10px;
 }
 
 .d-flex-text {
